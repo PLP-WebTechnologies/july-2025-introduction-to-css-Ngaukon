@@ -1,0 +1,37 @@
+/* styling for the boxing model */
+
+.one {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid tomato;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #DA70D6;
+}
+
+.two {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid green;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #8a7489ff;
+}
+
+.three {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid blue;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #472e47ff;
+}
